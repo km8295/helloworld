@@ -15,6 +15,6 @@ class SayHello {
     //put your code here
     public static function world()
     {
-        return 'Hello World, Composer!';
+        return 'Hello World, Composer! <br /> This is Test Composer Package <br />';
     }
 }
