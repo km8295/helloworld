@@ -1,10 +1,10 @@
 {
-    "name": "farji/CheckValidation",
-    "description": "Library provided for Server Side PHP Validation.",
+    "name": "grossi/hello-world",
+    "description": "My first Composer project",
     "authors": [
         {
-            "name": "Your Name",
-            "email": "your@name.com"
+            "name": "Farji Hacker",
+            "email": "km8295@maulikpatel.in"
         }
     ],
     "minimum-stability": "stable",
@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-0": {
-            "CheckValidation": "src/"
+            "HelloWorld": "src/"
         }
     }
 }
