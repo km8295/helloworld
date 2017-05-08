@@ -5,13 +5,14 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-namespace HelloWorld;
+namespace CheckValidation;
 /**
  * Description of SayHello
  *
  * @author office 3
  */
-class SayHello {
+class Validation {
+	
     //put your code here
     public static function world()
     {

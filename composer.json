@@ -1,6 +1,6 @@
 {
-    "name": "grossi/hello-world",
-    "description": "My first Composer project",
+    "name": "farji/CheckValidation",
+    "description": "Library provided for Server Side PHP Validation.",
     "authors": [
         {
             "name": "Farji Hacker",
@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-0": {
-            "HelloWorld": "src/"
+            "CheckValidation": "src/"
         }
     }
 }
